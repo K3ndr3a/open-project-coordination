@@ -27,3 +27,4 @@
 - Status is updated regularly  
 - Blockers are identified early  
 - Work is tracked centrally for visibility  
+- Meeting cadence defined and implemented for weekly coordination
